@@ -63,7 +63,12 @@ tus llaves de pruebas por tus llaves de producción como en el paso 4.2
 
 > En el ambiente de producción podrás comenzar a usar tarjetas reales.
 
+## Licencia
 
-### Si tienes dudas de Integración escríbenos a integrate@culqi.com
+Licencia MIT. Revisar el LICENSE.md.
 
-### Si tienes dudas comerciales escríbenos a unete@culqi.com
+## Dudas
+
+Si tienes dudas de Integración escríbenos a integrate@culqi.com
+
+Si tienes dudas comerciales escríbenos a unete@culqi.com
